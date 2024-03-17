@@ -38,8 +38,8 @@ const Testimonials = () => {
                         <div className="user-info">
                             <img src={user_1} alt="" />
                             <div>
-                                <h3>William Jackson</h3>
-                                <span>Edusity, USA</span>
+                                <h3>Nesya</h3>
+                                <span>Jakarta, INDONESIA</span>
                             </div>
                         </div>
                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus, vero!</p>
@@ -50,8 +50,8 @@ const Testimonials = () => {
                         <div className="user-info">
                             <img src={user_2} alt="" />
                             <div>
-                                <h3>William Jackson</h3>
-                                <span>Edusity, USA</span>
+                                <h3>Wahyu</h3>
+                                <span>Tangerang, INDONESIA</span>
                             </div>
                         </div>
                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus, vero!</p>
@@ -62,8 +62,8 @@ const Testimonials = () => {
                         <div className="user-info">
                             <img src={user_3} alt="" />
                             <div>
-                                <h3>William Jackson</h3>
-                                <span>Edusity, USA</span>
+                                <h3>Salsa</h3>
+                                <span>Bandung, INDONESIA</span>
                             </div>
                         </div>
                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus, vero!</p>
@@ -74,8 +74,8 @@ const Testimonials = () => {
                         <div className="user-info">
                             <img src={user_4} alt="" />
                             <div>
-                                <h3>William Jackson</h3>
-                                <span>Edusity, USA</span>
+                                <h3>Jordan</h3>
+                                <span>Jogja, INDONESIA</span>
                             </div>
                         </div>
                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus, vero!</p>
