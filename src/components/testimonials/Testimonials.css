@@ -78,7 +78,7 @@
     }
 }
 
-@media(max-width: 600px){
+@media(max-width: 800px){
     .user-info{
         display: block;
         margin-bottom: 10px;
